@@ -836,7 +836,7 @@ nav ul li a:hover {
     flex-direction: column;
     width: 100%;
   }
-  
+
   #about .content-container img {
     width: 90%;
   }
@@ -848,6 +848,16 @@ nav ul li a:hover {
   #projects ul {    
     flex-direction: column;
   }
+
+  #projects img {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  #projects li h2 {
+    font-size: 30px !important;
+  }
+
 }
 
 
