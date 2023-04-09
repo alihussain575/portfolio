@@ -844,8 +844,7 @@ nav ul li a:hover {
     flex-direction: column;
   }
 
-  #projects ul {
-    width: 100%;
+  #projects ul {    
     flex-direction: column;
   }
 }
