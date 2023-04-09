@@ -858,6 +858,11 @@ nav ul li a:hover {
     font-size: 30px !important;
   }
 
+
+  #about .content-container .content {
+    width: 90%;
+  }
+
 }
 
 
