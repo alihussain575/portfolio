@@ -837,10 +837,15 @@ nav ul li a:hover {
     width: 100%;
   }
   #about .content-container img {
-    width: 100%;
+    width: 90%;
   }
 
   #about .why-me {
+    flex-direction: column;
+  }
+
+  #projects ul {
+    width: 100%;
     flex-direction: column;
   }
 }
